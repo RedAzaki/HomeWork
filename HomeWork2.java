@@ -11,9 +11,9 @@ public class HomeWork2 {
         }
 
         public static void chekSumm() {
-                        int a = 3;
+                        int w = 3;
                         int b = 7;
-                        int c = (a + b);
+                        int c = (w + b);
                         System.out.println(c >= 10 && c <= 20);
             System.out.println(); // разделяем для комфортного чтения результата.
                 }
